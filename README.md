@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ...
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=newhoo&theme=vue-dark&hide=commits)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=newhoo&theme=tokyonight&hide=commits)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=newhoo" />
 
